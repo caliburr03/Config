@@ -1,0 +1,15 @@
+[general]
+bars = 0
+bar_width = 1
+bar_spacing = 0.5
+[color]
+gradient = 1
+ gradient_color_1 = '#5E81AC'
+ gradient_color_2 = '#66d9ff'
+gradient_color_3 = '#88C0D0'
+gradient_color_4 = '#8FBCBB'
+#gradient_color_5 = '#ccfff5'
+#gradient_color_6 = '#ffb3b3'
+[output]
+# Output method
+method = ncurses
