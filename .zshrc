@@ -129,11 +129,11 @@ ex ()
 
 #alias mtrx = 'unimatrix -c cyan -s 98'
 
-export EDITOR=gedit
+export EDITOR='vim'
 
 alias pacman-update='sudo pacman-mirrors --geoip'
 
-alias ls='ls'
+alias ls='ls --color'
 alias ll='ls -l'
 # ls, the common ones I use a lot shortened for rapid fire usage
 alias l='ls -lFh'     #size,show type,human readable
